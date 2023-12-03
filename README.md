@@ -6,7 +6,7 @@
   
   `make`
 
-## Running the Client:
+## Running the Program:
   Enter the following command in the root directory:
   
   `./p2 num_msgs, loss_prob, corrupt_prob, out_of_order_prob, avg_time, trace_lvl, randomized, bidirectional`
